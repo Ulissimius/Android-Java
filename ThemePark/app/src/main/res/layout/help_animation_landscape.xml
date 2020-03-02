@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/helpCtr"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_orange_light"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="370dp"
+        android:layout_height="310dp"
+        android:text="The original Luna Park on Coney Island, a massive spectacle of rides, ornate towers and cupolas covered in 250,000 electric lights, was opened in 1903 by the showmen and entrepreneurs Frederic Thompson and Elmer &quot;Skip&quot; Dundy. The park was either named after the fanciful airship Luna, part of the new park's central attraction A Trip to the Moon, or after Dundy's sister. Luna Park was a vastly expanded attraction built partly on the grounds of Sea Lion Park, the first enclosed amusement park on Coney Island which closed down due to competition from near by Steeplechase Park."
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.482" />
+</androidx.constraintlayout.widget.ConstraintLayout>

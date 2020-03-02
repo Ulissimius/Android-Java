@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671407669319",
+    "firebase_url": "https://organic-byway-258819.firebaseio.com",
+    "project_id": "organic-byway-258819",
+    "storage_bucket": "organic-byway-258819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671407669319:android:9682a308782acc58c1b162",
+        "android_client_info": {
+          "package_name": "com.e.googlemapstestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671407669319-0c492ltmjt9un3n22mc4auas1l8m7v3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MyHQEH9z-wJw-rWwNsiYi18LeFNMBSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671407669319-0c492ltmjt9un3n22mc4auas1l8m7v3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
